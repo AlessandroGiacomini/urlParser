@@ -6,7 +6,9 @@ Algorithm in C to parse url at wire speeds.
 
 ## How to Run Project
 ------------------
-The code has been tested using various Visual Studio and Cygwin GNU/GCC compilers
+
+* Clone the repo with ```git clone https://github.com/AlessandroGiacomini/multiuserblog.git```
+* Test the code using various Visual Studio and Cygwin GNU/GCC compilers
 
 ### Project specifications
 -----------------------------------
