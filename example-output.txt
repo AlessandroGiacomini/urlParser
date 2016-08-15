@@ -1,0 +1,84 @@
+
+**************************************
+   Running Test 1: Full Strings
+**************************************
+
+Method     :GET
+URL        :/index_1.html
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_2.html/
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_3.html/
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_4.htm
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/index_5.htm
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/root/index_6.htm/
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/root/index_7.htm
+Version    :HTTP/1.1
+
+Method     :POST
+URL        :/cgi-bin/hostsvc_8.sh
+Argument   :arg1=/../etc/passwdi&x=?data1&y=data2
+Version    :HTTP/1.0
+
+Method     :POST
+URL        :/cgi-bin/hostsvc_9.sh
+Argument   :?arg1=/../etc/passwdi&x=data1&y=data2
+Version    :HTTP/1.0
+
+**************************************
+ Running Test 2: Character at a time
+**************************************
+
+Method     :GET
+URL        :/index_1.html
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_2.html/
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_3.html/
+Version    :HTTP/1.0
+
+Method     :GET
+URL        :/index_4.htm
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/index_5.htm
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/root/index_6.htm/
+Version    :HTTP/1.1
+
+Method     :GET
+URL        :/root/index_7.htm
+Version    :HTTP/1.1
+
+Method     :POST
+URL        :/cgi-bin/hostsvc_8.sh
+Argument   :arg1=/../etc/passwdi&x=?data1&y=data2
+Version    :HTTP/1.0
+
+Method     :POST
+URL        :/cgi-bin/hostsvc_9.sh
+Argument   :?arg1=/../etc/passwdi&x=data1&y=data2
+Version    :HTTP/1.0
