@@ -22,6 +22,4 @@ Observe that three calls to UrlParse() are performed.
 
 The url_parse() function has to produces output similar to example-output.txt when run.  For each input string, there should be an output line for the HTTP method, an output line for the URL, and an output line for the HTTP Version.  Some of the strings have mutliple version  identifiers, but you should only output the first version identifier.
 
-Is only concerned with parsing the input strings found in main.c and producing the output in example-output.txt at wire speeds.
-
-It has not to be concerned with the exact details of the HTTP protocol.
+The challenge concern with parsing the input strings found in main.c and producing the output in example-output.txt at wire speeds.
